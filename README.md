@@ -1,1 +1,1 @@
-# data-indices
+# geospatial-indices
